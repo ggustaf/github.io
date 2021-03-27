@@ -1,2 +1,2 @@
 # github.io
-PDF files for differential equations book 2021
+PDF files for book **Differential Equations and Linear Algebra** 2021
