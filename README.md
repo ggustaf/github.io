@@ -1,17 +1,17 @@
 # github.io
-PDF files for book **Differential Equations and Linear Algebra** 2021
+<h1>PDF files for book Differential Equations and Linear Algebra 2021</h1>
 
-**deKindle.pdf**
+<h2>deKindle.pdf</h2>
 
  The complete book with problem statements, TOC, Index. References, 1285 pages
 Paperback copies sold at Amazon
 
-**answersAndSolutions.pdf**
+<h2>AnswersAndSolutions.pdf</h2>
 
   The complete set of exercise statements, answers and solutions. This file
   is updated periodicaly to post added corrections, answers and solutions.
 
-**Requests for answers and solutions**
+<h2>Requests for answers and solutions</h2>
 
   may be made by clicking on **Issues** and writing a message.
   Contributions of answers and solutions, with optional attribution, 
